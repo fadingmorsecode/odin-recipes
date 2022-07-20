@@ -1,0 +1,40 @@
+body {
+    background-color: #A6D1E6;
+}
+
+.title,
+.links,
+.secondary-titles {
+    color: #7F5283;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.links {
+    font-size: 20px;
+}
+
+.secondary-titles {
+    font-size: 30px;
+}
+
+.smaller-titles {
+    font-size: 23px;
+}
+
+.paragraphs {
+    color: black;
+    font-size: 20px;
+}
+
+#kramer {
+    height: auto;
+    width: 300px;
+}
+
+.back-button {
+    color: red;
+    font-size: 17px;
+}
